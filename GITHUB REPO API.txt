@@ -1,0 +1,22 @@
+ "success": true,
+    "counTotal": 8,
+    "message": "ALlProducts ",
+    "products": [
+        {
+            "_id": "65e1712328dde01231bf54ad",
+            "name": "Women Solid Drawstring Waist Cotton Casual Straight Pants",
+            "slug": "Women-Solid-Drawstring-Waist-Cotton-Casual-Straight-Pants",
+            "description": "Twill is versatile and it’s a common fabric for trousers. Its name comes from the weave used to create it – the twill weave. This weave pattern creates diagonal lines across the face of the fabric. These lines can be very obvious or quite subtle, depending on the thread colors used. Twill is very strong, durable, and often mid to heavy in weight, making it perfect for trousers. ",
+            "price": 113,
+            "category": {
+                "_id": "65e0b7f695271c41d428931d",
+                "name": "Women's Clothing",
+                "slug": "women's-clothing",
+                "__v": 0
+            },
+            "quantity": 12,
+            "createdAt": "2024-03-01T06:09:39.483Z",
+            "updatedAt": "2024-03-06T06:53:51.767Z",
+            "__v": 0
+        },
+        {
